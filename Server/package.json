@@ -4,7 +4,8 @@
   "description": "Rule the words! KKuTu Online Server",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "heroku/nodejs"
   },
   "engines": {
     "node": "^12.9.1"
