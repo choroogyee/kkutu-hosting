@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/JJoriping/KKuTu",
+  "repository": "https://github.com/choroogyee/kkutu-hosting",
   "keywords": [
     "kkutu"
   ],
