@@ -6,6 +6,9 @@
   "scripts": {
     "start": "electron ."
   },
+  "engines": {
+    "node": "12.9.1"
+  },
   "repository": "https://github.com/choroogyee/kkutu-hosting",
   "keywords": [
     "kkutu"
